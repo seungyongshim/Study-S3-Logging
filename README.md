@@ -1,4 +1,4 @@
 # Study-S3-Logging
 
 ## Diagram
-![](./1.drawio.svg)
+![](https://raw.githubusercontent.com/seungyongshim/Study-S3-Logging/main/1.drawio.svg)
